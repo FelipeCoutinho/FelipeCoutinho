@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou Felipe Coutinho</h1>
 <h2 align="center">Analista de sistemas e engenheiro de software</h2>
-<h3 align="center">Apaixonado por tecnologia, web developer</h3>
+<h3 align="center">Apaixonado por tecnologias web</h3>
 <h4 align="center">seja bem vindo(a) ao meu perfil</h4>
 
 - 🔭 Atualmente sou desenvolvedor node.js sênior no grupo boticário **Gb.tech**
