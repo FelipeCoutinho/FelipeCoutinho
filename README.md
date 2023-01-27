@@ -13,7 +13,7 @@
 
 - 📫Você me acha **philipecout@gmail.com**
 
-- 📄 Trabalho com tecnologia a seis(6) anos, tenho experiência com java, node.js, arquitetura de sistemas distribuídos [https://www.linkedin.com/in/felipe-coutinho-53b39a14b/](https://www.linkedin.com/in/felipe-coutinho-53b39a14b/)
+- 📄 Trabalho com tecnologia a seis(6) anos, tenho experiência com java, node.js, arquitetura de sistemas distribuídos
 
 <br/>
 <br/>
@@ -32,7 +32,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="/https://www.linkedin.com/in/felipe-coutinho-53b39a14b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-coutinho-53b39a14b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/felipe-coutinho-53b39a14b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-coutinho-53b39a14b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
