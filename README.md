@@ -13,7 +13,7 @@
 
 - 📫Você me acha **philipecout@gmail.com**
 
-- 📄 Trabalho com tecnologia seis(6) anos, tenho experiência com java, node.js, arquitetura de sistemas distribuídos [https://www.linkedin.com/in/felipe-coutinho-53b39a14b/](https://www.linkedin.com/in/felipe-coutinho-53b39a14b/)
+- 📄 Trabalho com tecnologia a seis(6) anos, tenho experiência com java, node.js, arquitetura de sistemas distribuídos [https://www.linkedin.com/in/felipe-coutinho-53b39a14b/](https://www.linkedin.com/in/felipe-coutinho-53b39a14b/)
 
 <br/>
 <br/>
