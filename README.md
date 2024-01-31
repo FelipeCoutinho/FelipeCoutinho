@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Felipe Coutinho</h1>
+<h1 align="center">Olá, Me chamo Felipe Coutinho</h1>
 <h2 align="center">Analista de sistemas e engenheiro de software</h2>
 <h3 align="center">Apaixonado por tecnologias web</h3>
 <h4 align="center">seja bem vindo(a) ao meu perfil</h4>
